@@ -1,0 +1,22 @@
+{
+  "name": "handwirting",
+  "version": "1.0.0",
+  "description": "Handwirting code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jifenjiliang/handWirting.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "jinpeng.lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jifenjiliang/handWirting/issues"
+  },
+  "homepage": "https://github.com/jifenjiliang/handWirting#readme"
+}
