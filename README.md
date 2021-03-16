@@ -7,3 +7,4 @@
 # handWirting
 ## 手写系列
 
+[实现柯里化](./code/createCurry.js)
